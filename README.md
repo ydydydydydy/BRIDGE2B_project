@@ -22,7 +22,7 @@ BRIDGE2B은 Langchain 기반의 기업 분석을 통한 기업 매칭 및 마케
 
 ###### PPT 및 발표자료:
 
-* ppt: [<https://www.canva.com/design/DAFrFnZcob8/kUSTRc3J5PFxsNJHxcYGvA/edit>](https://www.miricanvas.com/v/12nukv7)
+* ppt: https://www.miricanvas.com/v/12nukv7
 * 시연 영상: <https://youtu.be/v00CfGb3rGI>
 * 발표 영상: <https://youtu.be/Q4U1jswDTQI>
 * ER 다이어그램 개요: <https://app.diagrams.net/#Hrimgosu%2Fproject%2Fmaster%2Fdocument%2F%EC%A0%9C%EB%AA%A9%20%EC%97%86%EB%8A%94%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.drawio>
